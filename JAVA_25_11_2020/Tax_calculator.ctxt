@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Tax_calculator
+comment1.params=name\ address\ subject\ phonenumber\ salary
+comment1.target=void\ main(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+numComments=2

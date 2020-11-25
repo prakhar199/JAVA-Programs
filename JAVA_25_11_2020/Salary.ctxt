@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Salary
+comment1.params=
+comment1.target=Salary()
+comment1.text=InputStreamReader\ read\=new\ InputStreamReader(System.in);\r\n\ \ \ \ \ \ \ \ BufferedReader\ in\=new\ BufferedReader(read);\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ System.out.println("Enter\ name");\r\n\ \ \ \ \ \ \ \ name\=in.readLine();\r\n\ \ \ \ \ \ \ \ System.out.println("Enter\ address");\r\n\ \ \ \ \ \ \ \ address\=in.readLine();\r\n\ \ \ \ \ \ \ \ System.out.println("Enter\ subject");\r\n\ \ \ \ \ \ \ \ subject\=in.readLine();\r\n\ \ \ \ \ \ \ \ System.out.println("Enter\ phone\ number");\r\n\ \ \ \ \ \ \ \ ph\=Integer.parseInt(in.readLine());\r\n\ \ \ \ \ \ \ \ System.out.println("Enter\ salary");\r\nsal\=Double.parseDouble(in.readLine());
+comment2.params=name\ address\ ph\ subject\ sal
+comment2.target=void\ display(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=sal
+comment3.target=void\ calculate(int)
+numComments=4
